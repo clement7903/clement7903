@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clement!
-- 👀 I’m interested in analytics, data management and mathematical algorithms!
+- 👀 I’m interested in analytics, data management, machine learning and mathematical algorithms!
 - 🌱 I’m currently learning new productivity tools such as github & notion so as to keep myself more motivated!
 - 💞️ My side hobbies include:
     -    📚 Reading
