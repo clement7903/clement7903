@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Clement!
-- 👀 I’m interested in analytics, data management, machine learning and mathematical algorithms!
+- 👀 I’m interested in analytics, data management, machine learning applications and algorithms!
 - 🌱 I’m currently looking to pursue further studies in computing to branch out from the accounting field.
 - 💞️ My side hobbies include:
     -    📚 Reading
