@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clement!
 - 👀 I’m interested in analytics, data management, machine learning applications and algorithms!
-- 🌱 I’m currently looking to pursue further studies in computing to branch out from the accounting field.
+- 🌱 Picking up programming during my undergrad days led me to pursue computing and this repo is a collection of
 - 💞️ My side hobbies include:
     -    📚 Reading
     -    💪 Workouts (Calisthenics, occasional 4km runs)
